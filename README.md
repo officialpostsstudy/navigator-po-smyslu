@@ -1,2 +1,2 @@
-# navigator-po-smyslu
+# navigator
 Сравнение embedding-моделей для семантического поиска по коду
